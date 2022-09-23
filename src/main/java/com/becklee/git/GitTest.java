@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("hello,git test");
         System.out.println("hello,git test hot-fix");
         System.out.println("conflict: master");
+        System.out.println("conflict: hot-fix");
+
     }
 }
